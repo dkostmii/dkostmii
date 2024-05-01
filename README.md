@@ -1,16 +1,22 @@
-### Hi there 👋
+# dkostmii's special repository
 
-<!--
-**dkostmii/dkostmii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```markdown
+# Hello, World! 👋
 
-Here are some ideas to get you started:
+The best projects are below.
+You can also look for more in
+[Repositories](https://github.com/dkostmii?tab=repositories) tab.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+To collabortate, reach me using links in [this profile](https://github.com/dkostmii).
+
+I don't like listing my tech stack here,
+but I would like to metion a next thing:
+
+> **I use [Arch](https://archlinux.org/) btw**
+
+That's it :)
+
+_Regards,_
+
+_dkostmii_
+```
