@@ -1,0 +1,11 @@
+# Hi, I'm Dmytro-Andrii Kostelnyi 👋
+
+Full-Stack Developer and Technical Consultant based in Lviv, Ukraine. I build modern web applications with Next.js, FastAPI, and PostgreSQL, and actively integrate AI into my development workflow — from healthcare agents and neuroscience simulation platforms to blockchain integrations and enterprise automation tools. I handle the full project lifecycle, from estimation to cloud deployment.
+
+Feel free to reach out via Telegram: [@kostelnyj](https://t.me/kostelnyj)
+
+## 🛠️ Tech Stack
+
+| Frontend | Backend | AI / LLM | DevOps |
+|----------|---------|----------|--------|
+| ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white) <br> ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) <br> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) <br> ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) <br> ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) <br> ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white) <br> ![Claude](https://img.shields.io/badge/Claude-D97757?logo=anthropic&logoColor=white) <br> ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?logo=googlegemini&logoColor=white) <br> ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000?logo=vercel&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) <br> ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white) <br> ![Grafana](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white) <br> ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?logo=hetzner&logoColor=white) |
