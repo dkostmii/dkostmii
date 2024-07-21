@@ -12,7 +12,7 @@ To collabortate, reach me using links in [this profile](https://github.com/dkost
 I don't like listing my tech stack here,
 but I would like to metion a next thing:
 
-> **I use [Arch](https://archlinux.org/) btw**
+> **I use [NixOS](https://nixos.org/) btw**
 
 That's it :)
 
