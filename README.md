@@ -1,7 +1,7 @@
 # dkostmii's special repository
 
 Welcome! This is my personal playground and portfolio as a Full-stack Developer with AI (LLM) expertiese.
-
+1
 ## 🛠️ Tech Stack
 
 My expertiese covers modern web technologies, backend frameworks, automation tools and cloud providers.
